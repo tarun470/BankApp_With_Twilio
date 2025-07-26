@@ -124,7 +124,6 @@ Once the app is running:
 3. 🧾 Formats the data into a readable SMS
 4. 📲 Sends the SMS using the Twilio API
 
----
 
 ---
 
