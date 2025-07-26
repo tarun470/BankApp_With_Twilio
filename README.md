@@ -1,10 +1,10 @@
 
-                               <h3>Java + JDBC + Twilio SMS Integration</h3>
-<p>This project is a simple Java application that shows how to:
+                                  Java + JDBC + Twilio SMS Integration
+This project is a simple Java application that shows how to:
   Connect to an Oracle database using JDBC
   Retrieve user data or transaction details
   Send SMS notifications using the Twilio API
-Perfect for learning how to integrate backend systems with real-time communication.</p>
+Perfect for learning how to integrate backend systems with real-time communication.
 
 
                                      Technologies Used
