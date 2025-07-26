@@ -38,7 +38,8 @@ JavaJDBCTwilio/
 
                                       Add Required Dependencies
 Ensure your pom.xml contains:
-
+  Twilio SDK Dependency
+  
 
 
 
