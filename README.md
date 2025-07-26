@@ -126,15 +126,6 @@ Once the app is running:
 
 ---
 
-## ✅ Example Output
-
-```
-Connected to database...
-Transaction: ₹500 debited from A/C 123456789
-Sending SMS to +91XXXXXXXXXX...
-Message sent successfully!
-```
-
 ---
 
 ## 📌 Notes
