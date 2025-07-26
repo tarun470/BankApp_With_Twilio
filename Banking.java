@@ -10,7 +10,7 @@ import com.twilio.type.PhoneNumber;
 public class Banking {
     static final String DB_URL = "jdbc:oracle:thin:@//192.168.1.37:1521/xe";  
     static final String USER = "system"; 
-    static final String PASS = "tarun";
+    static final String PASS = "";
     static final String ACCOUNT_SID = "";
     static final String AUTH_TOKEN = "";
     static final String FROM_PHONE = ""; 
